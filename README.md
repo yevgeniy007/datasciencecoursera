@@ -1,2 +1,5 @@
-# Data science coursera
-## The Data Scientist’s Toolbox Course
+## Data Science Specialization
+
+* Uses R
+* Nine courses
+* Goes from raw data to data products
